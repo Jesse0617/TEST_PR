@@ -1,0 +1,9 @@
+{
+  "big_small_app.py::test_1": true,
+  "big_small_app.py::test_3": true,
+  "fixture_app.py::test1": true,
+  "fixture_app.py::test2": true,
+  "parametrize_app.py::test_1[aaa-bbb]": true,
+  "test_app3.py::test1": true,
+  "test_app3.py::test2": true
+}

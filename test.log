@@ -1,0 +1,4 @@
+[2018-05-12 14:52:35,107] INFO in RotatingFileHandler: info
+[2018-05-12 14:52:35,108] WARNING in RotatingFileHandler: warn
+[2018-05-12 14:52:35,109] ERROR in RotatingFileHandler: error
+[2018-05-12 14:52:35,109] CRITICAL in RotatingFileHandler: critical
