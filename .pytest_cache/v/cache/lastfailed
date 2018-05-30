@@ -1,0 +1,9 @@
+{
+  "RotatingFileHandler.py::FLAKE8": true,
+  "api.py::FLAKE8": true,
+  "big_small_app.py::FLAKE8": true,
+  "fixture_app.py::FLAKE8": true,
+  "hello.py::FLAKE8": true,
+  "log_test.py::FLAKE8": true,
+  "parametrize_app.py::FLAKE8": true
+}

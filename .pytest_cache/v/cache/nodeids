@@ -1,0 +1,10 @@
+[
+  "RotatingFileHandler.py::FLAKE8",
+  "api.py::FLAKE8",
+  "big_small_app.py::FLAKE8",
+  "fixture_app.py::FLAKE8",
+  "hello.py::FLAKE8",
+  "log_test.py::FLAKE8",
+  "parametrize_app.py::FLAKE8",
+  "routes.py::FLAKE8"
+]
